@@ -32,16 +32,19 @@ Note Taker stands as a testament to the power of Express.js in creating practica
 link here
 
 ## Usage
-later
+![Homepage](./public/assets/images/Note-Taker-Home.png)
+![BlankNotesScreen](./public/assets/images/Note-Taker-Default.png)
+![StartedNote](./public/assets/images/Note-Taker-Start.png)
+![MultipleNotes](./public/assets/images/Note-Taker-Notes.png)
 
 ## License
 This application is covered under the MIT License.
 
 ## Credits
-n/a
+[Link to Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
 
 ## Tests
-n/a
+N/A
 
 ## Questions
 Please don't hesitate to reach out to me if you have any queries, you can do so by contacting me through my GitHub profile [judemdonahue](https://github.com/judemdonahue) or by sending an email to judemdonahue@gmail.com.

@@ -65,7 +65,7 @@ app.get("/api/notes", (req, res) => {
       }
     });
   });
-  
+
   // ** DELETE ROUTE **
   app.delete("/api/notes/:id", (req, res) => {
     const id = req.params.id;
