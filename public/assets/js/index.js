@@ -129,9 +129,11 @@ const renderNoteList = async (notes) => {
   const createLi = (text, delBtn = true) => {
     const liEl = document.createElement('li');
     liEl.classList.add('list-group-item');
+    liEl.classList.add('bg-dark');
 
     const spanEl = document.createElement('span');
     spanEl.classList.add('list-item-title');
+    spanEl.classList.add('text-white');
     spanEl.innerText = text;
     spanEl.addEventListener('click', handleNoteView);
 

@@ -19,10 +19,14 @@ body {
 
 .note-textarea,
 .note-title {
-  color: #000000;
+  color: #ffffff;
   width: 100%;
   outline: none;
   border: none;
+}
+
+::placeholder{
+  color: #ffffff;
 }
 
 .note-textarea {
